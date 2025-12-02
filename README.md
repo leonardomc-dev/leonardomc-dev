@@ -1,4 +1,4 @@
-## Olá, eu sou o Leonardo Mello Carlette
+## 👋 Olá, eu sou o Leonardo Mello Carlette
 - Desenvolvedor formado como Técnico em Desenvolvimento de Sistemas e futuro Bacharel em Sistemas de Informação.
 - Apaixonado por tecnologia, resolução de problemas e criação de soluções práticas que realmente fazem diferença.
 

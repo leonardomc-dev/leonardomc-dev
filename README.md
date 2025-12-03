@@ -45,12 +45,10 @@ Sistema completo focado em troca e venda de dispositivos eletrônicos com sistem
 
 🌐 **Seges genérico - Web**<br>
 Sistema completo focado em gestão escolar<br>
-**Tecnologias:** Html, Css e JavaScript<br>
 🔗 https://github.com/leonardomc-dev/Projeto-Seges<br>
 
 🌐 **Softnova - Soluções tecnologicas**<br>
 Exemplo de site empresarial de soluções tecnológicas.<br>
-**Tecnologias:** Html, Css e JavaScript<br>
 🔗 https://github.com/leonardomc-dev/softnova<br>
 
 </div>
